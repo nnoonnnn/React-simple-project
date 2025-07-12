@@ -29,7 +29,7 @@ pass +=str.charAt(char)
   return (
 <>
 <h1>
-  APP Generator
+  APP Generator '2025'
 </h1>
 
 <input type="text" value={Password} readOnly />
